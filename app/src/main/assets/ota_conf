@@ -1,0 +1,13 @@
+#
+# OTA XML
+#
+ota_url=https://raw.githubusercontent.com/dirtypixelfreak/OTA/pixel/r7plus.xml
+release_type=Stable
+device_name=ro.rr.device
+#
+# VERSION
+#
+version_source=ro.pf.version
+version_delimiter=-
+version_position=3
+version_format=yyyyMMdd
